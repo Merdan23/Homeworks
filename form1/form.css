@@ -1,0 +1,39 @@
+*{
+margin: 5;
+padding: 0;
+box-sizing: border-box;
+}
+
+.form1{
+border: 10px solid yellow;
+width: 400px;
+min-height: 300px;
+box-shadow: 5px;
+display: inline-block;
+box-shadow: 10px 10px blue;
+}
+
+p{
+padding: 5px;
+margin-left: 5px;
+}
+
+label{
+padding-left: 10px;
+padding-top: 10px;
+}
+
+.email1{
+padding-left: 20px;
+margin-left: 10px;
+border-radius: 10px;
+}
+
+.input1{
+    padding-left: 20px;
+    margin-left: 10px;
+    border-radius: 10px;
+
+
+
+}
